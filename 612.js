@@ -1,8 +1,6 @@
 /*
 
-Author：@ddgksf2013
 
-通知频道：https://t.me/ddgksf2021
 
 
 APP：B612咔叽
