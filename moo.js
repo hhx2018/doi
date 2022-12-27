@@ -1,4 +1,4 @@
-// moo音乐
+/* moo音乐  */
 
 re('"userType":\\d@"radishQty":\\d','"userType":2@"radishQty":999')
 
